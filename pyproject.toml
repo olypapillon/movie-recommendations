@@ -1,7 +1,7 @@
 [project]
 name = "movie-recommendations"
 version = "0.1.0"
-description = "Add your description here"
+description = "Semantic movie recommendations over the Netflix catalog using nomic-embed-text embeddings and a FAISS similarity index, with Streamlit and CLI interfaces."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
