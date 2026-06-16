@@ -1,0 +1,13 @@
+[project]
+name = "movie-recommendations"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu==1.10.0",
+    "ipykernel>=7.3.0",
+    "pandas>=3.0.3",
+    "requests>=2.34.2",
+    "streamlit>=1.40.0",
+]
