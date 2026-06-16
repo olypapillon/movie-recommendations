@@ -8,6 +8,8 @@ for fast nearest-neighbor similarity search.
 Describe a movie you like — its genre, cast, director, or just a plot summary —
 and get back the most similar titles in the catalog.
 
+![Streamlit app screenshot](docs/screenshot.png)
+
 ## How it works
 
 1. **Represent** — each movie row is flattened into a short labeled text block
